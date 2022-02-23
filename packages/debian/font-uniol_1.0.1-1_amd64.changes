@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 22 Feb 2022 20:25:18 +0530
+Source: font-uniol
+Binary: font-uniol
+Architecture: source amd64
+Version: 1.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: Dr Anirban Mitra <mitra_anirban@yahoo.co.in>
+Changed-By: Dr Anirban Mitra <mitra_anirban@yahoo.co.in>
+Description:
+ font-uniol - Unicode Compliant OlChiki or OlCemet Font
+Changes:
+ font-uniol (1.0.1-1) unstable; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ 93a1757a83a491fc3f9606823807541d48e88bce 1745 font-uniol_1.0.1-1.dsc
+ c879b56e7975a19208d23ca01a6f64981592c42f 35013 font-uniol_1.0.1.orig.tar.gz
+ e397710714e72360be7ff8b7773926b168736221 1500 font-uniol_1.0.1-1.debian.tar.xz
+ 6f50f1343c7a98bff33460379eaa53a99123539c 7551 font-uniol_1.0.1-1_amd64.buildinfo
+ ccf04bbc97f65250359b4afc69ff0687ee12abd0 1936 font-uniol_1.0.1-1_amd64.deb
+Checksums-Sha256:
+ 8e25dd2ba066faa14a5f589aa04f9849ceae3e6e81ba4960ec82292e2dceec77 1745 font-uniol_1.0.1-1.dsc
+ 8a391884c1acda1824eed11983e71a8e49dda67b6ff1a1e02819df18638cb7bf 35013 font-uniol_1.0.1.orig.tar.gz
+ 1190167ebada7e9627cf7be274c0ade71a375a96982a1591cef0d97a9d7fade0 1500 font-uniol_1.0.1-1.debian.tar.xz
+ efc91b117663317d41b194b7e247e1585e488451ccde4f2a4e66f34270ff2e1f 7551 font-uniol_1.0.1-1_amd64.buildinfo
+ 456338427a38641fc7c2bc9be87b9975a40cb9a977ea7334c1232c618efd8538 1936 font-uniol_1.0.1-1_amd64.deb
+Files:
+ c387bde40505908092eb0110e9655549 1745 fonts optional font-uniol_1.0.1-1.dsc
+ 0cc5ea33c5b84a68e7eb01b59a5ddd29 35013 fonts optional font-uniol_1.0.1.orig.tar.gz
+ a61d4a98c3ba8fbe7693ee2f141377d6 1500 fonts optional font-uniol_1.0.1-1.debian.tar.xz
+ 28f78b17518af8a434e40de448ce4deb 7551 fonts optional font-uniol_1.0.1-1_amd64.buildinfo
+ a84e28661a063c593f8e351d8f5c62d8 1936 fonts optional font-uniol_1.0.1-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEFyxViVkA678eKh9PRFFiLBWvF4QFAmIVEt0ACgkQRFFiLBWv
+F4T4pA/+LkGMQ6d6WXECK6ieCoj0fjzWzXtTa8ujmO+NupqrLOuZJF8j4DHUvDWe
+K2BPaiArOGWeREbFFVm/Ahd2btjIE+/IMgFZncjVZOeu2y84m/qwAPnwXRIYe+eZ
+OZrGQkCBwdJ6bxNR6YMXHkNzvRD0/DkWUG6A3sFL4XvINbf7P7diL5MOX5X4iFY5
+T7VOeCpBrDoXGmb/fdgm+czFRb36k9n9c9Xfzbs3DxdaZoAsIcI3OEbp+hVqA0fv
+hRZwsxBkvPdyFSTXrs03DkUnoU156+wyPAr4ezokTzCCuS+MA1zHckKzxkkL9H1D
+VfwdvVOdDpfSMxQSLjcpToGiMRaNibtuyFgWqaiyqvSlUfeaZtEuKjFY5iFy7qfB
+aGh5SkWyh5ZAH3cKnR+lcSJp7dFalyapBmbrNslJDGVFO1kCMOkSYTYYjKLDUrFb
+clvLDKqkOJaHaA0Bu8aurBT4So1F9EiHFHKG6PLHGszTSBUTSumjDDacJxJjvMXU
+dnrxhZbgkR+sR0MwvTvhDY5ZqxWBLlJ3+SOUSOmVZJurs2g0ddHH/DqIFLomfrIW
+aOB/j2cGwJsRr0wPXwKFkDFRKsvlzYc3KWFeY+cl3Npl1vTwu23szgpbWQw3Onhs
+fPzuY/GTG9y8yc9UX8Y+KQNud4rAfsmw1iB63TtDwVAJY24E2eQ=
+=zxbM
+-----END PGP SIGNATURE-----

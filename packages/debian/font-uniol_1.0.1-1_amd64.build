@@ -1,0 +1,214 @@
+ dpkg-buildpackage -us -uc -ui -i -I
+dpkg-buildpackage: info: source package font-uniol
+dpkg-buildpackage: info: source version 1.0.1-1
+dpkg-buildpackage: info: source distribution unstable
+dpkg-buildpackage: info: source changed by Dr Anirban Mitra <mitra_anirban@yahoo.co.in>
+ dpkg-source -i -I --before-build .
+dpkg-buildpackage: info: host architecture amd64
+ fakeroot debian/rules clean
+dh clean
+   dh_clean
+ dpkg-source -i -I -b .
+dpkg-source: info: using source format '3.0 (quilt)'
+dpkg-source: info: building font-uniol using existing ./font-uniol_1.0.1.orig.tar.gz
+dpkg-source: info: building font-uniol in font-uniol_1.0.1-1.debian.tar.xz
+dpkg-source: info: building font-uniol in font-uniol_1.0.1-1.dsc
+ debian/rules build
+dh build
+   dh_update_autotools_config
+   dh_autoreconf
+   create-stamp debian/debhelper-build-stamp
+ fakeroot debian/rules binary
+dh binary
+   dh_testroot
+   dh_prep
+   debian/rules override_dh_install
+make[1]: Entering directory '/home/artim/font-uniol-1.0.1/font-uniol-1.0.1'
+chmod +x  generate.pe
+./generate.pe *.sfd
+Copyright (c) 2000-2020. See AUTHORS for Contributors.
+ License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+ with many parts BSD <http://fontforge.org/license.html>. Please read LICENSE.
+ Version: 20190801
+ Based on sources from 03:10 UTC  6-Mar-2020-ML-D-GDK3.
+chmod -x *.ttf
+dh_install
+make[1]: Leaving directory '/home/artim/font-uniol-1.0.1/font-uniol-1.0.1'
+   dh_installdocs
+   dh_installchangelogs
+   dh_perl
+   dh_link
+   dh_strip_nondeterminism
+   dh_compress
+   dh_fixperms
+   dh_missing
+   dh_strip
+   dh_makeshlibs
+   dh_shlibdeps
+   dh_installdeb
+   dh_gencontrol
+dpkg-gencontrol: warning: Depends field of package font-uniol: substitution variable ${shlibs:Depends} used, but is not defined
+   dh_md5sums
+   dh_builddeb
+dpkg-deb: building package 'font-uniol' in '../font-uniol_1.0.1-1_amd64.deb'.
+ dpkg-genbuildinfo
+ dpkg-genchanges  >../font-uniol_1.0.1-1_amd64.changes
+dpkg-genchanges: info: including full source code in upload
+ dpkg-source -i -I --after-build .
+dpkg-buildpackage: info: full upload (original source is included)
+Now running lintian -i -I --show-overrides font-uniol_1.0.1-1_amd64.changes ...
+E: font-uniol changes: bad-distribution-in-changes-file unstable
+N: 
+N:    You've specified an unknown target distribution for your upload in the
+N:    debian/changelog file. It is possible that you are uploading for a
+N:    different distribution than the one Lintian is checking for. In that
+N:    case, passing --profile $VENDOR may fix this warning.
+N:    
+N:    Note that the distributions non-free and contrib are no longer valid.
+N:    You'll have to use distribution unstable and Section: non-free/xxx or
+N:    Section: contrib/xxx instead.
+N:    
+N:    Refer to Debian Policy Manual section 5.6.14 (Distribution) for details.
+N:    
+N:    Severity: error
+N:    
+N:    Check: changes-file
+N: 
+W: font-uniol: copyright-has-url-from-dh_make-boilerplate
+N: 
+N:    There is "url://example.com" in your copyright file. This was most
+N:    likely a remnant from the dh_make template.
+N:    
+N:    Make sure you include the real location where you obtained the upstream
+N:    sources (if any).
+N:    
+N:    Refer to Debian Policy Manual section 12.5 (Copyright information) for
+N:    details.
+N:    
+N:    Severity: warning
+N:    
+N:    Check: debian/copyright
+N: 
+W: font-uniol: empty-binary-package
+N: 
+N:    This binary package appears to be empty, and its description does not
+N:    say that it's a metapackage or a transitional package. This is often due
+N:    to problems with updating debhelper *.install files during package
+N:    renames or similar problems where installation rules don't put files in
+N:    the correct place.
+N:    
+N:    If the package is deliberately empty, please mention in the package long
+N:    description one of the phrases "metapackage", "dummy", "dependency
+N:    package", or "empty package".
+N:    
+N:    Previously, Lintian also accepted the use of "virtual package". This was
+N:    removed to avoid overloading the term. If you have been relying on the
+N:    phrase "virtual package" to avoid this warning, please replace it with
+N:    one of the others.
+N:    
+N:    Severity: warning
+N:    
+N:    Check: files/empty-package
+N: 
+W: font-uniol: new-package-should-close-itp-bug
+N: 
+N:    This package appears to be the first packaging of a new upstream
+N:    software package (there is only one changelog entry and the Debian
+N:    revision is 1), but it does not close any bugs. The initial upload of a
+N:    new package should close the corresponding ITP bug for that package.
+N:    
+N:    This warning can be ignored if the package is not intended for Debian or
+N:    if it is a split of an existing Debian package.
+N:    
+N:    Refer to Debian Developer's Reference section 5.1 (New packages) for
+N:    details.
+N:    
+N:    Severity: warning
+N:    
+N:    Check: debian/changelog
+N: 
+W: font-uniol: readme-debian-contains-debmake-template
+N: 
+N:    The README.Debian file installed by this package contains one of the
+N:    template phrases from the README.Debian provided by deb-make or dh_make:
+N:    
+N:     Comments regarding the package
+N:     So far nothing to say
+N:     <possible notes regarding this package - if none, delete this file>
+N:     Automatically generated by debmake
+N:    
+N:    If there is real information in the file, please delete any generic
+N:    template phrases. If there is nothing to say in the file, it is best
+N:    removed.
+N:    
+N:    Severity: warning
+N:    
+N:    Check: debian/readme
+N: 
+W: font-uniol source: syntax-error-in-dep5-copyright line 15: Duplicate field files.
+N: 
+N:    The machine-readable copyright file didn't pass Debian control file
+N:    syntax check.
+N:    
+N:    This issue may hide other issues as Lintian skips some checks on the
+N:    file in this case.
+N:    
+N:    Refer to
+N:    https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/ for
+N:    details.
+N:    
+N:    Severity: warning
+N:    
+N:    Check: debian/copyright
+N: 
+I: font-uniol source: out-of-date-standards-version 4.1.4 (released 2018-04-05) (current is 4.5.0)
+N: 
+N:    The source package refers to a Standards-Version older than the one that
+N:    was current at the time the package was created (according to the
+N:    timestamp of the latest debian/changelog entry). Please consider
+N:    updating the package to current Policy and setting this control field
+N:    appropriately.
+N:    
+N:    If the package is already compliant with the current standards, you
+N:    don't have to re-upload the package just to adjust the Standards-Version
+N:    control field. However, please remember to update this field next time
+N:    you upload the package.
+N:    
+N:    See /usr/share/doc/debian-policy/upgrading-checklist.txt.gz in the
+N:    debian-policy package for a summary of changes in newer versions of
+N:    Policy.
+N:    
+N:    Refer to
+N:    https://www.debian.org/doc/debian-policy/upgrading-checklist.html for
+N:    details.
+N:    
+N:    Severity: info
+N:    
+N:    Check: fields/standards-version
+N: 
+I: font-uniol source: testsuite-autopkgtest-missing
+N: 
+N:    This package does not declare a test suite.
+N:    
+N:    Having a test suite aids with automated quality assurance of the archive
+N:    outside of your package. For example, if your package has a test suite
+N:    it is possible to re-run that test suite when any of your package's
+N:    dependencies have a new version and check whether that update causes
+N:    problems for your package.
+N:    
+N:    In addition, since May 2018 these tests now influence migration from
+N:    unstable to testing:
+N:    
+N:     https://lists.debian.org/debian-devel-announce/2018/05/msg00001.html
+N:    
+N:    Please add a debian/tests/control file to your package to declare a
+N:    testsuite, but please make sure to only add autopkgtests if they provide
+N:    meaningful coverage of your package.
+N:    
+N:    Refer to https://ci.debian.net/doc/ for details.
+N:    
+N:    Severity: info
+N:    
+N:    Check: testsuite
+N: 
+Finished running lintian.
