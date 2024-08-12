@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: UniOl
 FullName: UniOl
 FamilyName: UniOl
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1596786230
-ModificationTime: 1613887822
+ModificationTime: 1664386227
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,7 +44,7 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2021, Dr Anirban Mitra+AAoA-with Reserved Font Name UniOl.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2021, Dr Anirban Mitra+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: ISO8859-1
 Compacted: 1
 UnicodeInterp: none
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 9
+WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
 BeginChars: 304 70
@@ -2047,7 +2047,7 @@ SplineSet
  157.599609375 -150.799804688 157.599609375 -150.799804688 176.200195312 -173.599609375 c 128,-1,19
  194.799804688 -196.400390625 194.799804688 -196.400390625 194.799804688 -225.799804688 c 0,9,10
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -2071,7 +2071,7 @@ SplineSet
  319.799804688 733.400390625 l 1,9,-1
  319.799804688 728.599609375 l 1,5,-1
 EndSplineSet
-Validated: 524297
+Validated: 9
 EndChar
 
 StartChar: numbersign
@@ -2170,7 +2170,7 @@ SplineSet
  732.5 79.75 732.5 79.75 684.5 110.25 c 0,60,61
  654.5 128.75 654.5 128.75 595 146.25 c 1,53,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -2223,7 +2223,7 @@ SplineSet
  662.599609375 34.7998046875 662.599609375 34.7998046875 685.099609375 -2.7001953125 c 128,-1,51
  707.599609375 -40.2001953125 707.599609375 -40.2001953125 707.599609375 -96 c 0,40,41
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -2259,7 +2259,7 @@ SplineSet
  990 300.681640625 l 1,32,0
  777 -155.318359375 777 -155.318359375 657 -248.318359375 c 1,1,2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: quotesingle
@@ -2277,7 +2277,7 @@ SplineSet
  183 963.400390625 l 1,4,-1
  183 958.599609375 l 1,0,-1
 EndSplineSet
-Validated: 524297
+Validated: 9
 EndChar
 
 StartChar: parenleft
@@ -2299,7 +2299,7 @@ SplineSet
  203 198.599609375 203 198.599609375 264.200195312 96.599609375 c 0,12,13
  297.799804688 42 297.799804688 42 403.400390625 -58.7998046875 c 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: parenright
@@ -2322,7 +2322,7 @@ SplineSet
  488.599609375 725.799804688 488.599609375 725.799804688 540.5 607.299804688 c 128,-1,14
  592.400390625 488.799804688 592.400390625 488.799804688 592.400390625 352 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -2370,7 +2370,7 @@ SplineSet
  300.799804688 -124.200195312 l 1,29,-1
  305 -120 l 1,25,-1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: plus
@@ -2396,7 +2396,7 @@ SplineSet
  174.400390625 27 l 1,12,-1
  250.599609375 -66 l 1,0,-1
 EndSplineSet
-Validated: 524297
+Validated: 9
 EndChar
 
 StartChar: comma
@@ -2412,7 +2412,7 @@ SplineSet
  279.967773438 -547.857421875 279.967773438 -547.857421875 195.967773438 -485.158203125 c 128,-1,0
  111.967773438 -422.458007812 111.967773438 -422.458007812 137.767578125 -526.857421875 c 1,1,-1
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: hyphen
@@ -2429,7 +2429,7 @@ SplineSet
  580 73 l 1,3,-1
  539.799804688 7 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: period
@@ -2450,7 +2450,7 @@ SplineSet
  168.599609375 -448.200195312 168.599609375 -448.200195312 182.400390625 -464.700195312 c 128,-1,11
  196.200195312 -481.200195312 196.200195312 -481.200195312 196.200195312 -505.799804688 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: slash
@@ -2467,7 +2467,7 @@ SplineSet
  977 532 l 1,3,-1
  374.599609375 -278.599609375 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: colon
@@ -2497,7 +2497,7 @@ SplineSet
  208.599609375 114.799804688 208.599609375 114.799804688 225.099609375 94.7001953125 c 128,-1,23
  241.599609375 74.599609375 241.599609375 74.599609375 241.599609375 45.2001953125 c 0,12,13
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: semicolon
@@ -2522,7 +2522,7 @@ SplineSet
  433.127929688 183.599609375 433.127929688 183.599609375 346.427734375 248.099609375 c 128,-1,12
  259.727539062 312.599609375 259.727539062 312.599609375 286.727539062 204.599609375 c 1,13,-1
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: less
@@ -2563,7 +2563,7 @@ SplineSet
  284 618.799804688 l 1,7,-1
  342.799804688 516.200195312 l 1,4,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -2644,7 +2644,7 @@ SplineSet
  650.200195312 -148 650.200195312 -148 650.200195312 -103.599609375 c 0,75,65
  650.200195312 -83.7998046875 650.200195312 -83.7998046875 638.799804688 -69.7001953125 c 128,-1,66
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: at
@@ -2682,7 +2682,7 @@ SplineSet
  688.256835938 170.2421875 l 1,27,-1
  679.256835938 210.442382812 l 1,0,-1
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 EndChars
 EndSplineFont
