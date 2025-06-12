@@ -1,8 +1,8 @@
-# Uniol Unicode compliant Ol Chiki / Ol Cemet Font
+# Uniol Unicode compliant Ol Chiki (Ol Cemet) Font
 This is an Unicode compliant OlChiki or OlCemet font.
  OlChiki is a modern alphabetic script used to write Santhali language used in various states of India.
 
-![UniOl](glyphs-diff.png)
+![UniOl](UniOl.webp)
 
 This font design is taken from OlChiki code page of unicode.org
 
@@ -19,7 +19,7 @@ sudo apt-get install font-uniol
 
   - Initial release
 
-June 2025 - Version 2.000 
+June 2025 - Version 2.001
 
   - Added Italic, Bold and Bold Italic
   - Added GPOS table for marks
